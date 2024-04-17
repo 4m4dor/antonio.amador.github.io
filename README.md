@@ -1,2 +1,2 @@
 # KIT Automotive
-This is an example repository for the upcoming project of an automotive store
+This is a repository example for the upcoming project of an automotive store
